@@ -11,7 +11,7 @@ Projede slash komutlar, event handler ve basit bir economy sistemi bulunmaktadı
 ## Kurulum
 1. Repo'yu klonlayın:
    ```bash
-   git clone https://github.com/kullaniciadi/python-bot.git
+   git clone https://github.com/kutluhanturkmen/python-discord-bot.git
    ```
 2. Gerekli paketleri yükleyin:
    ```bash
